@@ -6,7 +6,7 @@ class Home extends React.Component {
   render() {
     return (
       <>
-        <h1>API Flowers</h1>
+        <h1>Crypto List</h1>
       </>
     )
   }
